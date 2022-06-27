@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-rollbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Report Errors to Rollbar",
   "strapi": {
     "displayName": "Rollbar",
