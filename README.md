@@ -1,5 +1,4 @@
-# Strapi Plugin Reading Time
-
+# Strapi Plugin Rollbar
 
 A plugin for [Strapi](https://github.com/strapi/strapi) to track Strapi errors with Rollbar.
 
